@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "mjs6angmhjtkrf1",
+    "name": "hh",
+    "email": "hh@gmail.com",
+    "password": "$2a$10$.QJ.oGWSuVHD6GG6xwMi6eGIFbg5CPD1lQlIoPWpelTYgOpU4wHMa",
+    "role": "STAFF",
+    "isPremium": false,
+    "status": "ONLINE",
+    "lastLogin": "2025-12-30T06:05:37.262Z",
+    "createdAt": "2025-12-30T05:55:02.382Z",
+    "updatedAt": "2025-12-30T06:05:37.263Z"
+  },
+  {
+    "_id": "mjs6elb46ejdi5j",
+    "name": "hh2",
+    "email": "hh2@gmail.com",
+    "password": "$2a$10$tPF53lbS2e0672Ky/2S8lOdcF6uUEQQocGr7RLjAL7BdEzsP8wkha",
+    "role": "ADMIN",
+    "isPremium": true,
+    "status": "OFFLINE",
+    "lastLogin": "2025-12-30T05:58:05.918Z",
+    "createdAt": "2025-12-30T05:58:06.189Z",
+    "updatedAt": "2025-12-30T06:05:17.182Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "mjs7jjzn3ltqzop",
+    "name": "hh",
+    "email": "hh@gmail.com",
+    "password": "$2a$10$PCzpGXLe6OQDrAxeg8j42esQvRt2VbnWkJCGSfM49JijdUbpyC3TK",
+    "role": "STAFF",
+    "isPremium": false,
+    "status": "ONLINE",
+    "lastLogin": "2025-12-30T06:29:57.106Z",
+    "createdAt": "2025-12-30T06:29:57.475Z",
+    "updatedAt": "2025-12-30T06:29:57.475Z"
+  }
+]
